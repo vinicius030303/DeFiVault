@@ -1,4 +1,4 @@
-# 🌐 DeFi Protocol Simulator 
+# 🌐 DeFi Protocol Simulator
 
 Simulador educacional e interativo de um protocolo DeFi com integração Web3. Criado com o objetivo de demonstrar lógica de staking, simulação de liquidez, recompensas e conexão com carteiras Web3. Ideal para estudo, demonstração técnica e validação de habilidades em projetos de finanças descentralizadas.
 
